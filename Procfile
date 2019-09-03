@@ -1,1 +1,1 @@
-musica: java "musica.js"
+musica: python "musica.py"
